@@ -1,4 +1,3 @@
-Anchois
-Sardine
-
-baleine
+sardines
+thon$
+maquereaux
